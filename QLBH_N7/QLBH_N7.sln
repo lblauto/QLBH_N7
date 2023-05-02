@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLBH_N7", "QLBH_N7\QLBH_N7.csproj", "{247BC8FD-5116-4D0B-9893-5655A63DF566}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{07415AFE-07F5-4BED-91C7-229B1C09BE8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247BC8FD-5116-4D0B-9893-5655A63DF566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247BC8FD-5116-4D0B-9893-5655A63DF566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247BC8FD-5116-4D0B-9893-5655A63DF566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247BC8FD-5116-4D0B-9893-5655A63DF566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07415AFE-07F5-4BED-91C7-229B1C09BE8A}.Debug|Any CPU.ActiveCfg = Debug
+		{07415AFE-07F5-4BED-91C7-229B1C09BE8A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43CE8C0C-4E37-48AB-893B-0B8EF5AF5112}
+	EndGlobalSection
+EndGlobal
